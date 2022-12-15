@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xPnYINuYplnKiDR8mLtat2xvJVOay9JLv0kQPBfvE1bs9P3gtrJvniQ2UG7E6isdBL9JgG4WY/xClPocxi03NQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\vinterprojektV2\\vinterprojektV2\\vinterprojektV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bergman.william\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
